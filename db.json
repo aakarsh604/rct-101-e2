@@ -70,6 +70,27 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": "",
+      "imageSrc": "https://picsum.photos/seed/picsum6/420/260",
+      "gender": "",
+      "category": "",
+      "price": "",
+      "title": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "imageSrc": "https://picsum.photos/seed/picsum6/420/260",
+      "gender": "",
+      "category": "",
+      "price": "",
+      "title": "",
+      "id": 12
     }
   ]
 }
